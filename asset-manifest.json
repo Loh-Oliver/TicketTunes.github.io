@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TicketTunes.github.io/static/css/main.32c20b49.css",
-    "main.js": "/TicketTunes.github.io/static/js/main.c57f9a00.js",
+    "main.js": "/TicketTunes.github.io/static/js/main.31d6ea96.js",
     "static/media/coldplay.png": "/TicketTunes.github.io/static/media/coldplay.9f3b471db7fe754b2268.png",
     "static/media/vibes.png": "/TicketTunes.github.io/static/media/vibes.b7e3f080757bafa719a6.png",
     "static/media/hallyupopfest.png": "/TicketTunes.github.io/static/media/hallyupopfest.072a3acb59108b5c73b4.png",
@@ -72,10 +72,10 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/TicketTunes.github.io/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/TicketTunes.github.io/index.html",
     "main.32c20b49.css.map": "/TicketTunes.github.io/static/css/main.32c20b49.css.map",
-    "main.c57f9a00.js.map": "/TicketTunes.github.io/static/js/main.c57f9a00.js.map"
+    "main.31d6ea96.js.map": "/TicketTunes.github.io/static/js/main.31d6ea96.js.map"
   },
   "entrypoints": [
     "static/css/main.32c20b49.css",
-    "static/js/main.c57f9a00.js"
+    "static/js/main.31d6ea96.js"
   ]
 }
